@@ -24,6 +24,8 @@ void loop()
     Serial.print("Resistor: ");
     Serial.print(R2);
     Serial.println(" Ohms");
-    delay(1000);
+
+    delay(250);
+
   }
 }
